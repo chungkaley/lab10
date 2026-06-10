@@ -1,3 +1,4 @@
 # Lab 10 - Starter
 
-## Canny.io: https://cse110-lab10-chungkaley.canny.io/
+##  Roadmap & Feature Requests page
+https://cse110-lab10-chungkaley.canny.io/
